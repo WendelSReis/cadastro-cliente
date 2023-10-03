@@ -89,4 +89,12 @@ public class Cliente {
     public int hashCode() {
         return Objects.hash(cpf);
     }
+
+    @Override
+    public String toString() {
+        return "Cliente{" +
+                "nome='" + nome + '\'' +
+                ", cpf=" + cpf +
+                '}';
+    }
 }
