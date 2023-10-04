@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e86fa1a-d0d9-482c-a2b4-7c1e241d6c18" name="Changes" comment="Criando interface e clientes">
+    <list default="true" id="9e86fa1a-d0d9-482c-a2b4-7c1e241d6c18" name="Changes" comment="Adicionando metodos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cadastros/dao/ClienteMapDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cadastros/dao/ClienteMapDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cadastros/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cadastros/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696376866081</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando metodos">
+      <created>1696424886340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696424886340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create get,set, Equals e hash" />
     <MESSAGE value="Criando interface e clientes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando interface e clientes" />
+    <MESSAGE value="Adicionando metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando metodos" />
   </component>
 </project>
