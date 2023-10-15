@@ -31,7 +31,7 @@ public class App {
                 sair();
             } else if (isCadastro(opcao)) {
                 String dados = JOptionPane.showInputDialog(null,
-                        "Digite os dados do cliente separados por vígula, conforme exemplo: Nome, CPF, Telefone, Endereço, Número, Cidade e Estado",
+                        "Digite os dados do cliente separados por vírgula, conforme exemplo: Nome, CPF, Telefone, Endereço, Número, Cidade e Estado",
                         "Cadastro", JOptionPane.INFORMATION_MESSAGE);
                 cadastrar(dados);
             } else if(isConsultar(opcao)) {
